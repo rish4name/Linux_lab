@@ -40,4 +40,4 @@ drwxr-xr-x 1 Rishabh 197121      0 Aug 12 12:31  .git/
 
 ```
 
-
+!["ls-la output"](./ls-la.png)

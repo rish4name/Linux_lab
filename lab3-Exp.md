@@ -1,6 +1,6 @@
 # Basic Linux Commands
-'''bash 
+```bash 
 >> pwd
-'''
+```
 
 

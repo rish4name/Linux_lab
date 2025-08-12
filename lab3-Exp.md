@@ -3,4 +3,10 @@
 >> pwd
 ```
 
+```
+Output:
+/c/Users/Rishabh/OneDrive/Desktop/Linux_lab
+
+```
+
 

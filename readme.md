@@ -1,4 +1,4 @@
-Here's a simple `README.md` file that explains the basic Linux commands: `rm`, `cp`, `touch`, and `mv` (for moving files). It includes a small example of how to move a file from one location to another.
+Here's a simple `readme.md` file that explains the basic Linux commands: `rm`, `cp`, `touch`, and `mv` (for moving files). It includes a small example of how to move a file from one location to another.
 
 ---
 
@@ -95,7 +95,7 @@ After this, `example.txt` will be inside the `destination/` directory.
 
 ---
 
-> 📌 Tip: Use `man <command>` in terminal to learn more. Example: `man mv`
+
 
 ```
 
@@ -106,4 +106,4 @@ Would you like me to save and export this as a `.md` file for download?
 
 
 
-![My Terminal Work Screenshot](./screenshot.png)
+![My Terminal Work Screenshot](./Screenshot.png)
